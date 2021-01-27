@@ -1,0 +1,27 @@
+#Inspiration{
+text-align: center;
+background-image: linear-gradient(#ff0000 0%, #0000ff 100%);
+}
+img{
+   border-style: solid;
+   border-width: 10px;
+    height: 300px;
+    width: 300px;
+    transition: tranform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+h1{
+font-size: 40px;
+color: yellow;
+}
+.Linediv{
+height: 7px;
+width: 400px;
+background-color: black;
+margin: 8px auto;
+}
+h2{
+color: white;
+}
